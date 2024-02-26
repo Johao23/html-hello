@@ -1,0 +1,40 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos del post */
+.post {
+    width: 300px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+/* Estilos del encabezado del post */
+.post-header {
+    background-color: #428bca;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilos del contenido del post */
+.post-content {
+    padding: 20px;
+}
+
+/* Estilos de la imagen */
+.post-content img {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Estilos del pie de foto */
+.post-content p {
+    font-size: 14px;
+    line-height: 1.5;
+}
